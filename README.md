@@ -24,8 +24,8 @@ spring.jpa.database=mysql - database type
 spring.jpa.database-platform=org.hibernate.dialect.MySQL5Dialect - dialect
 
 
-2. git clone
-3. cd CustomerDemo
+2. git clone https://github.com/proselytear/customerdemo
+3. cd customerdemo
 4. mvn spring-boot:run
 
 5. Access CustomerService using next REST requests:
